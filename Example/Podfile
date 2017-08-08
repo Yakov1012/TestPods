@@ -10,5 +10,6 @@ target 'TestPods_Example' do
   pod 'Expecta'
   pod 'FBSnapshotTestCase'
   pod 'Expecta+Snapshots'
+  # pod 'TestPods', :podspec => '../TestPods.podspec'  # 指定podspec文件
   end
 end

@@ -1,0 +1,22 @@
+{
+  "name": "TestPods",
+  "version": "0.1.0",
+  "summary": "A short description of TestPods.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/Yakov1012/TestPods",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Yakov1012": "1446486761@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/Yakov1012/TestPods.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "TestPods/Classes/**/*"
+}
